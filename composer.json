@@ -19,7 +19,7 @@
   "require": {
     "drupal/map_widget": "^1.0.0-beta1",
     "fathershawn/oauth2-formassembly": "^1.0",
-    "symfony/dom-crawler": "^3.4",
+    "symfony/dom-crawler": "^4.4",
     "ext-libxml": "*",
     "ext-json": "*"
   },
