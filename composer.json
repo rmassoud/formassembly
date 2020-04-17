@@ -1,5 +1,5 @@
 {
-  "name": "drupal/formassembly",
+  "name": "rmassoud/formassembly",
   "type": "drupal-module",
   "description": "integrates a Drupal site with the FormAssembly service",
   "keywords": ["Drupal"],
